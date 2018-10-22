@@ -1,1 +1,1 @@
-this file is for build regression model
+this file is for building regression model
